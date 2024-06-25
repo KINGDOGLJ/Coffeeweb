@@ -1,0 +1,4 @@
+[2024/6/5 21:48:54] [InitBiliDownload]: {"cookie":"string","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) bilibili_pc/1.13.6 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36","cachePath":"D:\\video","parallel":1,"proxyAgent":null}
+[2024/6/5 21:49:00] [getVideoList]: Total: 0
+[2024/6/5 21:49:01] [stopLoadList]: []
+[2024/6/5 21:49:01] [getVideoList]: Total: 0
